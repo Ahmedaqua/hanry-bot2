@@ -11,18 +11,18 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['22247072475', '👑 Mystic - Creador 👑', true],
+  ['201289863299', '👑 AQUA 👑', true],
 ];
 
-global.suittag = ['22247072475'];
-global.prems = ['22247072475'];
+global.suittag = ['201289863299'];
+global.prems = ['201289863299'];
 
-global.packname = 'Sticker';
-global.author = 'SHANKS - Bot';
-global.wm = 'SHANKS - Bot';
-global.titulowm = 'SHANKS - Bot';
-global.titulowm2 = `SHANKS - Bot`
-global.igfg = 'SHANKS - Bot';
+global.packname = '𝐈𝐭𝐬𝐀𝐡𝐦𝐚𝐝';
+global.author = '𝘼𝙌𝙐𝘼 𝙎𝘼𝙈𝘼';
+global.wm = ' ❤️‍🩹𝐈𝐭𝐬𝐀𝐡𝐦𝐚𝐝 🇵🇸⁩';
+global.titulowm = 'ITADORI - Bot';
+global.titulowm2 = `ITADORI - Bot`
+global.igfg = 'ITADORI - Bot';
 global.wait = '*[ ⏳ ] تَحْميل...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
